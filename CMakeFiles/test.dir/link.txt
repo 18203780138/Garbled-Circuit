@@ -1,0 +1,1 @@
+/usr/bin/c++  -march=armv8-a+crypto CMakeFiles/test.dir/GLNP.cpp.o -o test   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib /usr/lib/aarch64-linux-gnu/libssl.so /usr/lib/aarch64-linux-gnu/libcrypto.so -lemp-tool 

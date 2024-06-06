@@ -1,0 +1,3 @@
+/home/parallels/Downloads/Thrgates/CMakeFiles/test.dir
+/home/parallels/Downloads/Thrgates/CMakeFiles/edit_cache.dir
+/home/parallels/Downloads/Thrgates/CMakeFiles/rebuild_cache.dir
